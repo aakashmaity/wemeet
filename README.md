@@ -3,7 +3,7 @@
  <img width=200px height=200px src="/public/icons/logo.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Yoom - Video conferencing app</h3>
+<h3 align="center">WEmeet - Video conferencing app</h3>
 
 <div align="center">
 
