@@ -14,10 +14,6 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -43,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+
 ```
 
 ### Installing
